@@ -1,0 +1,33 @@
+.search{
+    padding: 10px;
+}
+#bt1{
+    margin: 10px;
+}
+a{
+    color: black !important;
+    text-decoration: none !important;
+    font-size: 20px !important;
+}
+.n1{
+    padding: 20px;
+}
+.p1{
+    font-family: bold;
+    margin: 15px;
+}
+.w1{
+    width: 350%;
+}
+.cr{
+    display: flex;
+}
+.card-img{
+    width: 50%;
+    margin: 30px;
+}
+.bt2{
+    padding: 45px;
+}
+
+
